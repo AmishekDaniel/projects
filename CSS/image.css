@@ -1,0 +1,18 @@
+img:hover
+{
+	opacity:0.5
+	
+}
+
+#sec
+{
+	background-color:blue;
+	width:100%;
+	height:300px
+	
+}
+#sec:hover
+{
+	opacity:0.5
+	
+}

@@ -1,0 +1,30 @@
+a{
+   text-decoration:none;
+   font-size:25px;
+   color:black
+}
+.button1
+{
+	background-color:red;
+	padding:15px 20px;
+	
+}
+.button1:hover{
+	background-color:green;
+color:white}
+
+.button2{
+	
+	border:1px solid green;
+	padding:15px 20px;
+	border-radius:20px
+	
+}
+.button3{border:1px solid green;
+	padding:15px 20px;
+	border-radius:20px
+	
+}
+.button2:hover{
+	background-color:green;
+color:white}

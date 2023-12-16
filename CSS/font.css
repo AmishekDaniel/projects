@@ -1,0 +1,14 @@
+body{font-family:arial}
+h1{font-family:"times new roman"}
+h2{font-family:"times new roman"
+}
+
+.fa-facebook-official{color:blue;
+background-color:white;
+padding:5px;
+font-size:30px
+}
+.fa-whatsapp{color:white;
+background-color:green;
+padding:2px;
+font-size:30px}

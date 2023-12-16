@@ -1,0 +1,15 @@
+table,tr,td,th
+{border:1px solid black;
+border-collapse:collapse;
+padding:10px;
+text-align:center;
+}
+table{
+	width:100%;
+height:auto;
+}
+h2{text-align:center;}
+td{height:50px;
+vertical-align:middle;}
+tr:hover{background-color:#D8BFD8;	
+color:#E0FFFF}

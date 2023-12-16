@@ -1,0 +1,24 @@
+h1{
+	color:#B8860B
+}
+.button1{font-size:30px;
+	color:#B8860B;
+	text-decoration:underline;
+	text-transform:capitalize;
+	text-indent:100px;
+	letter-spacing:10px;
+	line-height:1.5;
+	word-spacing:10px;
+	
+	}
+body{
+	
+	background-color:#FFA07A
+}
+.button{
+	background-color:#D3D3D3;
+	width:70px;
+	padding:10px;
+	text-transform:capitalize;
+	
+}

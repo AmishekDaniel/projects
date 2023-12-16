@@ -1,0 +1,35 @@
+ul
+{
+list-style-type:none;
+font-size:25px;
+background-color:#8D1B3C;
+width:10%;
+padding: 20px;
+text-align:center
+
+}
+ul li
+{
+	background-color:#984E8C;
+	padding: 5px  20px ;
+	margin:8px;
+	color:#FFEBE0
+}
+	
+	
+ul li:hover
+{
+	background-color:#00202B;
+	color:white;
+	text-decoration:underline
+}
+	
+	
+	
+ol
+{
+	list-style-image:url{'../images/back.jpg');
+	
+	
+}
+	

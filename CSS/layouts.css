@@ -1,0 +1,21 @@
+#header
+{
+	background-color:gray;
+	text-align:center;
+	padding:5px;
+	
+}
+#beader
+{
+	background-color:#9f6060;
+	text-align:center;
+	padding:5px;
+	height:200px
+}
+#seader
+{
+	background-color:#ff9999;
+	text-align:center;
+	padding:5px;
+	height:150px
+}
